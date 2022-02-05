@@ -37,28 +37,274 @@ This course combines lecture and lab-based instruction. Students are required to
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 30% |
-| Final project | 30% |
-| Lab performance | 30% |
-| Attendance, participation and reading | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab performance
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, participation and reading
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | POSTED ASSIGNMENTS | DUE ASSIGNMENTS |
-| --- | --- | --- | --- |
-| 1 | Introduction: Electronics | PS1, L1 (optional) | &nbsp; |
-| 2 | Introduction: Electronics (cont.) | L2 | PS1, L1 (optional) |
-| 3 | Introduction: Electronics (cont.) | PS2 | L2 |
-| 4 | Pressure, Force | PS3 | &nbsp; |
-| 5 | Pressure, Strain, & Piezoelectrics | PS3 | PS2 |
-| 6 | Electric Field and Capacitive Sensing | L3 | PS3 |
-| 7 | Capacitive Applications & Magnetic Sensing | PS/L4 | L3 |
-| 8 | Inertial Sensing | &nbsp; | PS/L4 |
-| 9 | Optical Sensing | &nbsp; | Project proposal due |
-| 10 | Acoustic and Thermal Sensing | &nbsp; |
-| 11 | Digital Sensor Processing and Modules | &nbsp; |
-| 12 | RF and Acoustic Coherent Sensing, Bioelectric Sensing & Related Topics | &nbsp; |
-| 13 | Final Project Presentations | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+POSTED ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Electronics
+{{< tdclose >}}
+{{< tdopen >}}
+PS1, L1 (optional)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Electronics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+PS1, L1 (optional)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Electronics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+PS2
+{{< tdclose >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure, Force
+{{< tdclose >}}
+{{< tdopen >}}
+PS3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure, Strain, & Piezoelectrics
+{{< tdclose >}}
+{{< tdopen >}}
+PS3
+{{< tdclose >}}
+{{< tdopen >}}
+PS2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Electric Field and Capacitive Sensing
+{{< tdclose >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+PS3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Capacitive Applications & Magnetic Sensing
+{{< tdclose >}}
+{{< tdopen >}}
+PS/L4
+{{< tdclose >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Inertial Sensing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+PS/L4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Sensing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustic and Thermal Sensing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Sensor Processing and Modules
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+RF and Acoustic Coherent Sensing, Bioelectric Sensing & Related Topics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
