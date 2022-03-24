@@ -86,7 +86,7 @@ Electronics (cont.)
 
 Vaughan, R. G., N. L. Scott, et al. "The Theory of Bandpass Sampling." _IEEE Transactions on Signal Processing_ 39, no. 9 (1991): 1973-84.
 
-National Semiconductor. Datasheet for "LM13700 Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ti.com/lit/ds/symlink/lm13700.pdf))
+National Semiconductor. Datasheet for "LM13700 Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers." ([PDF](http://www.ti.com/lit/ds/symlink/lm13700.pdf))
 
 
 {{< tdclose >}}
@@ -102,7 +102,7 @@ Pressure and force
 {{< tdopen >}}
 
 
-Interlink Electronics. "FSR™ Force Sensing Resistors Integration Guide." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.digikey.com/Web%20Export/Supplier%20Content/InterlinkElectronics_1027/PDF/Interlink_Electronics_Integration_Guide.pdf?redirected=1))
+Interlink Electronics. "FSR™ Force Sensing Resistors Integration Guide." ([PDF - 1.4MB](http://www.digikey.com/Web%20Export/Supplier%20Content/InterlinkElectronics_1027/PDF/Interlink_Electronics_Integration_Guide.pdf?redirected=1))
 
 Papakostas, T. V., J. Lima, et al. "[A Large Area Force Sensor for Smart Skin Applications](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1037366)." _Proceedings of IEEE Sensors 2002_, vol. 2, pp. 1620-4.
 
@@ -138,7 +138,7 @@ Pressure, strain and piezoelectrics
 
 Piezo Systems, Inc. [Introduction to Piezo Transducers](http://www.piezo.com/tech2intropiezotrans.html).
 
-Measurement Specialties, Inc. (MSI). _Piezo Film Sensors Technical Manual_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.imagesco.com/sensors/piezofilm.pdf)) \[Read in particular pp. 2-4, 27-31, and 36-42\]
+Measurement Specialties, Inc. (MSI). _Piezo Film Sensors Technical Manual_. ([PDF - 1.4MB](http://www.imagesco.com/sensors/piezofilm.pdf)) \[Read in particular pp. 2-4, 27-31, and 36-42\]
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ Electric field and capacitive sensing
 
 _Optional_
 
-Paradiso, J. A., and N. Gershenfeld. "Musical Applications of Electric Field Sensing." _Computer Music Journal_ 21, no. 2 (Summer 1997): 69-89. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.media.mit.edu/resenv/pubs/papers/96_04_cmj.pdf))
+Paradiso, J. A., and N. Gershenfeld. "Musical Applications of Electric Field Sensing." _Computer Music Journal_ 21, no. 2 (Summer 1997): 69-89. ([PDF - 1.2MB](http://www.media.mit.edu/resenv/pubs/papers/96_04_cmj.pdf))
 
 Philipp, H. "[Charge Transfer Sensing](https://fliphtml5.com/hzci/gjjy/basic)." _Sensor Review_ 19, no. 2 (1999): 96-105.
 
@@ -178,7 +178,7 @@ Capacitive applications and magnetic sensing
 
 Raab, F. H., et al. "[Magnetic Position and Orientation Tracking System](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4102227)." _IEEE Transactions on Aerospace and Electronic Systems_ 15, no. 5 (1979): 709-18. \[Paper on Polhemus tracker technologies\]
 
-Lee, S. K., W. Buxton, et al. "A Multi-Touch Three Dimensional Touch-Sensitive Tablet." _CHI '85 Proceedings_ (1985): 21-6. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.billbuxton.com/leebuxtonsmith.pdf)) \[Paper on Buxton's capacitive trackpad\]
+Lee, S. K., W. Buxton, et al. "A Multi-Touch Three Dimensional Touch-Sensitive Tablet." _CHI '85 Proceedings_ (1985): 21-6. ([PDF](http://www.billbuxton.com/leebuxtonsmith.pdf)) \[Paper on Buxton's capacitive trackpad\]
 
 
 {{< tdclose >}}

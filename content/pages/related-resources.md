@@ -10,7 +10,7 @@ Useful Links
 [Linear Technology LTspice](http://www.linear.com/designtools/software/index.jsp):  
 A free op-amp simulation tool
 
-Mancini, R., ed. _Op Amps for Everyone: Design Reference_. Texas Instruments, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB](https://web.mit.edu/6.101/www/reference/op_amps_everyone.pdf))  
+Mancini, R., ed. _Op Amps for Everyone: Design Reference_. Texas Instruments, 2002. ([PDF - 2.0MB](https://web.mit.edu/6.101/www/reference/op_amps_everyone.pdf))  
 An excellent reference book for op-amp design.
 
 OpAmps: Active Filter Synthesis Design Tool  

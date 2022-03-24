@@ -70,9 +70,9 @@ Introduction to power supplies and op-amps
 {{< tdopen >}}
 
 
-TLV2374 datasheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://focus.ti.com/lit/ds/symlink/tlv2374.pdf))
+TLV2374 datasheet ([PDF - 1.4MB](http://focus.ti.com/lit/ds/symlink/tlv2374.pdf))
 
-7805 datasheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sparkfun.com/datasheets/Components/LM7805.pdf))
+7805 datasheet ([PDF](https://www.sparkfun.com/datasheets/Components/LM7805.pdf))
 
 
 {{< tdclose >}}
@@ -98,7 +98,7 @@ Lab 3 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_lab3))
 Introduction to force sensitive resistors and piezo films
 {{< tdclose >}}
 {{< tdopen >}}
-Interlink electronics.![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["FSR™ Force Sensing Resistors Integration Guide." (PDF)](http://www.digikey.com/Web%20Export/Supplier%20Content/InterlinkElectronics_1027/PDF/Interlink_Electronics_Integration_Guide.pdf?redirected=1)
+Interlink electronics.["FSR™ Force Sensing Resistors Integration Guide." (PDF)](http://www.digikey.com/Web%20Export/Supplier%20Content/InterlinkElectronics_1027/PDF/Interlink_Electronics_Integration_Guide.pdf?redirected=1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,11 +112,11 @@ Introduction to capacitive sensing
 {{< tdopen >}}
 
 
-ADXL203 Spec sheet (replaces ADXL202) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.analog.com/static/imported-files/data_sheets/ADXL103_203.pdf))
+ADXL203 Spec sheet (replaces ADXL202) ([PDF](http://www.analog.com/static/imported-files/data_sheets/ADXL103_203.pdf))
 
-AD713 Spec sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.analog.com/static/imported-files/data_sheets/AD713.pdf))
+AD713 Spec sheet ([PDF](http://www.analog.com/static/imported-files/data_sheets/AD713.pdf))
 
-MAX494 Spec sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdfserv.maxim-ic.com/en/ds/MAX492-MAX495.pdf))
+MAX494 Spec sheet ([PDF](http://pdfserv.maxim-ic.com/en/ds/MAX492-MAX495.pdf))
 
 
 {{< tdclose >}}
